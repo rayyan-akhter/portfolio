@@ -1,5 +1,9 @@
 import my_img from "./components/assets/myself.png";
 import iphone from "./components/assets/iphone.png";
+import skysearch from "./components/assets/skysearch.png";
+import e_commerce from "./components/assets/eCommerce.png";
+import telegram from "./components/assets/telegram.png";
+import stocksGrapher from "./components/assets/stocksGrapher.png";
 
 const logotext = "RAYYAN";
 const meta = {
@@ -66,27 +70,29 @@ const dataportfolio = [
     link: "https://apple-iphone-15pro-series.netlify.app/",
   },
   {
-    img: "https://picsum.photos/400/800/?grayscale",
+    img: e_commerce,
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
+      "A modern e-commerce site with a clean design, product search, filters, and user authentication, including Google login.",
     link: "https://ecommerce-shopify-01.netlify.app/",
+    
   },
   {
-    img: "https://picsum.photos/400/?grayscale",
+    img: skysearch,
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
+      "A flight ticket booking website offering a streamlined interface for searching and booking flights.",
     link: "https://sky-search.netlify.app/",
+    
   },
   {
-    img: "https://picsum.photos/400/600/?grayscale",
+    img: telegram,
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
+      "The website  is a Telegram chat app clone , featuring a similar UI and core functionalities like chat lists and message displays using React and GSAP",
     link: "https://demo-telegram.netlify.app",
   },
   {
-    img: "https://picsum.photos/400/300/?grayscale",
+    img: stocksGrapher,
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
+      "It allows users to visualize stock data through interactive graphs, providing insights into market trends and performance.",
     link: "https://stocks-grapher.netlify.app",
   },
   {
@@ -133,4 +139,3 @@ export {
   logotext,
 };
 
-  
