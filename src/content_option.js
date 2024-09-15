@@ -4,6 +4,7 @@ import skysearch from "./components/assets/skysearch.png";
 import e_commerce from "./components/assets/eCommerce.png";
 import telegram from "./components/assets/telegram.png";
 import stocksGrapher from "./components/assets/stocksGrapher.png";
+import maze from "./components/assets/maze.png";
 
 const logotext = "RAYYAN";
 const meta = {
@@ -74,14 +75,12 @@ const dataportfolio = [
     description:
       "A modern e-commerce site with a clean design, product search, filters, and user authentication, including Google login.",
     link: "https://ecommerce-shopify-01.netlify.app/",
-    
   },
   {
     img: skysearch,
     description:
       "A flight ticket booking website offering a streamlined interface for searching and booking flights.",
     link: "https://sky-search.netlify.app/",
-    
   },
   {
     img: telegram,
@@ -94,6 +93,12 @@ const dataportfolio = [
     description:
       "It allows users to visualize stock data through interactive graphs, providing insights into market trends and performance.",
     link: "https://stocks-grapher.netlify.app",
+  },
+  {
+    img: maze,
+    description:
+      "The webpage offers an interactive maze game where players navigate through a space-themed labyrinth.",
+    link: "https://rocket-maze.netlify.app/",
   },
   {
     img: "https://picsum.photos/400/700/?grayscale",
@@ -138,4 +143,3 @@ export {
   socialprofils,
   logotext,
 };
-
