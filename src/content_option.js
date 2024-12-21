@@ -89,6 +89,12 @@ const dataportfolio = [
     link: "https://rocket-maze.netlify.app/",
   },
   {
+    img: "https://picsum.photos/400/600/?grayscale",
+    description:
+      "The wisdom of life consists in the elimination of non-essentials.",
+    link: "https://vyb-store.netlify.app/",
+  },
+  {
     img: telegram,
     description:
       "The website  is a Telegram chat app clone , featuring a similar UI and core functionalities like chat lists and message displays using React and GSAP",
@@ -100,7 +106,7 @@ const dataportfolio = [
       "It allows users to visualize stock data through interactive graphs, providing insights into market trends and performance.",
     link: "https://stocks-grapher.netlify.app",
   },
-  
+
   {
     img: "https://picsum.photos/400/700/?grayscale",
     description:
