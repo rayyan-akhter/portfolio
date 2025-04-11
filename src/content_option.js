@@ -5,6 +5,8 @@ import e_commerce from "./components/assets/eCommerce.png";
 import telegram from "./components/assets/telegram.png";
 import stocksGrapher from "./components/assets/stocksGrapher.png";
 import maze from "./components/assets/maze.png";
+import githubProfile from "./components/assets/githubProfile.png";
+import carBuyFinder from "./components/assets/carBuyFinder.png";
 
 const logotext = "RAYYAN";
 const meta = {
@@ -100,24 +102,33 @@ const dataportfolio = [
       "It allows users to visualize stock data through interactive graphs, providing insights into market trends and performance.",
     link: "https://stocks-grapher.netlify.app",
   },
-  
+
   {
     img: "https://picsum.photos/400/700/?grayscale",
-    description:
-      "Here's the Todo app",
+    description: "Here's the Todo app",
     link: "https://ourtodoapp.netlify.app",
   },
 
   {
     img: "https://picsum.photos/400/600/?grayscale",
-    description:
-      "Otp input area.",
+    description: "Otp input area.",
     link: "https://otp-input-area.netlify.app",
   },
   {
-    img: "https://picsum.photos/400/600/?grayscale",
+    img: githubProfile,
     description:
-      "Vyb-store home page",
+      "Users can enter a GitHub username to view detailed insights such as public repositories, top languages, and a contribution activity graph",
+    link: "https://githubprofilevisualizer.netlify.app/",
+  },
+  {
+    img: carBuyFinder,
+    description:
+      "Designed to help users easily search, filter, and explore cars for sale. It features real-time car filtering, detailed car view pages, a wishlist powered by Local Storage, and smooth pagination for browsing.",
+    link: "https://carbuyfinder.netlify.app/",
+  },
+  {
+    img: "https://picsum.photos/400/600/?grayscale",
+    description: "Vyb-store home page",
     link: "https://vyb-store.netlify.app/",
   },
 ];
