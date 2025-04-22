@@ -62,6 +62,10 @@ const skills = [
     name: "TypeScript",
     value: 100,
   },
+  {
+    name: "C",
+    value: 70,
+  },
 ];
 
 const services = [
