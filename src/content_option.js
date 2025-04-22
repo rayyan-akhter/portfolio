@@ -48,11 +48,19 @@ const skills = [
   },
   {
     name: "ReactNative",
-    value: 30,
+    value: 50,
   },
   {
     name: "GSAP",
-    value: 50,
+    value: 60,
+  },
+  {
+    name: "Node",
+    value: 40,
+  },
+  {
+    name: "TypeScript",
+    value: 100,
   },
 ];
 
