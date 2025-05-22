@@ -7,6 +7,10 @@ import stocksGrapher from "./components/assets/stocksGrapher.png";
 import maze from "./components/assets/maze.png";
 import githubProfile from "./components/assets/githubProfile.png";
 import carBuyFinder from "./components/assets/carBuyFinder.png";
+import designForge from "./components/assets/designForge.png";
+import formForger from "./components/assets/formForger.png";
+import taskMaster from "./components/assets/taskMaster.png";
+import blankBuilder from "./components/assets/blankBuilder.png";
 
 const logotext = "RAYYAN";
 const meta = {
@@ -85,6 +89,12 @@ const dataportfolio = [
     link: "https://apple-iphone-15pro-series.netlify.app/",
   },
   {
+    img: designForge,
+    description:
+      "Design Forge is a web-based platform hosted on Netlify that offers a suite of tools for UI/UX design and front-end development. It provides a collection of reusable components, design patterns, and resources aimed at streamlining the design-to-development workflow. The platform is designed to assist designers and developers in creating consistent and efficient user interfaces.",
+    link: "https://design-forge.netlify.app/",
+  },
+  {
     img: e_commerce,
     description:
       "A modern e-commerce site with a clean design, product search, filters, and user authentication, including Google login.",
@@ -112,19 +122,21 @@ const dataportfolio = [
     img: stocksGrapher,
     description:
       "It allows users to visualize stock data through interactive graphs, providing insights into market trends and performance.",
-    link: "https://stocks-grapher.netlify.app",
+    link: "https://voltcrypto.netlify.app/",
   },
 
   {
-    img: "https://picsum.photos/400/700/?grayscale",
-    description: "Here's the Todo app",
-    link: "https://ourtodoapp.netlify.app",
+    img: taskMaster,
+    description:
+      "Task Operator is a web-based task management application built with React and Redux. It offers a clean, responsive interface for creating, editing, and organizing tasks. Users can manage their to-do lists efficiently, with features like task filtering and state management powered by Redux. The app is deployed on Netlify, ensuring fast and reliable access across devices",
+    link: "https://task-operator.netlify.app/",
   },
 
   {
-    img: "https://picsum.photos/400/600/?grayscale",
-    description: "Otp input area.",
-    link: "https://otp-input-area.netlify.app",
+    img: formForger,
+    description:
+      "FormForger is a sleek web app for quickly creating and customizing forms. Built with a user-friendly interface, it allows users to generate forms effortlessly and preview them in real-time. Ideal for developers and designers looking to prototype or integrate forms easily.",
+    link: "https://formforger.netlify.app/",
   },
   {
     img: githubProfile,
@@ -142,6 +154,12 @@ const dataportfolio = [
     img: "https://picsum.photos/400/600/?grayscale",
     description: "Vyb-store home page",
     link: "https://vyb-store.netlify.app/",
+  },
+  {
+    img: blankBuilder,
+    description:
+      "BlankBuilder is a minimalist web application designed to assist users in creating and deploying blank or starter templates for web projects. It offers a clean interface, making it ideal for developers seeking a straightforward starting point for their applications",
+    link: "https://blankbuilder.netlify.app/",
   },
 ];
 
