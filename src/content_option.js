@@ -11,6 +11,7 @@ import designForge from "./components/assets/designForge.png";
 import formForger from "./components/assets/formForger.png";
 import taskMaster from "./components/assets/taskMaster.png";
 import blankBuilder from "./components/assets/blankBuilder.png";
+import chess from "./components/assets/chessImg.png";
 
 const logotext = "RAYYAN";
 const meta = {
@@ -89,6 +90,12 @@ const dataportfolio = [
     link: "https://apple-iphone-15pro-series.netlify.app/",
   },
   {
+    img: chess,
+    description:
+      "A fully functional chess game built with modern web technologies, featuring a clean UI and the ability to play against a computer powered by AI.",
+    link: "https://raychess.netlify.app/",
+  },
+  {
     img: designForge,
     description:
       "Design Forge is a web-based platform hosted on Netlify that offers a suite of tools for UI/UX design and front-end development. It provides a collection of reusable components, design patterns, and resources aimed at streamlining the design-to-development workflow. The platform is designed to assist designers and developers in creating consistent and efficient user interfaces.",
@@ -128,7 +135,7 @@ const dataportfolio = [
   {
     img: taskMaster,
     description:
-      "Task Operator is a web-based task management application built with React and Redux. It offers a clean, responsive interface for creating, editing, and organizing tasks. Users can manage their to-do lists efficiently, with features like task filtering and state management powered by Redux. The app is deployed on Netlify, ensuring fast and reliable access across devices",
+      "Task Operator is a web-based task management application built with React and Redux. It offers a clean, responsive interface for creating, editing, and organizing tasks. Users can manage their to-do lists efficiently, with features like task filtering and state management powered by Redux. The app is deployed on Netlify",
     link: "https://task-operator.netlify.app/",
   },
 
