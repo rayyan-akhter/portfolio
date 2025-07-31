@@ -77,7 +77,7 @@ const services = [
   {
     title: "Frontend Developer",
     description:
-      "I specialize in developing responsive and visually engaging web applications. With expertise in React, JavaScript, HTML, and CSS, I transform designs into interactive, user-friendly interfaces. My work ensures cross-browser compatibility, optimized performance, and seamless user experiences. I also have experience with animations and 3D elements, adding a dynamic edge to your web presence.",
+      "I am a frontend developer specializing in building responsive, visually compelling, and performance-optimized web applications. With strong proficiency in React, JavaScript, HTML, and CSS, I translate complex UI/UX designs into clean, interactive, and accessible interfaces that work flawlessly across all major browsers and devices,My expertise includes integrating smooth animations, 3D elements (WebGL/Three.js), and dynamic interactions to elevate user engagement and create immersive web experiences. I follow modern development practices like component-driven architecture, state management (e.g., Redux/Zustand), and modular styling (CSS Modules, Tailwind CSS) to build scalable and maintainable codebases.I’m also experienced in performance optimization, SEO fundamentals, accessibility (WCAG), and version control (Git), ensuring every product I build is fast, inclusive, and production-ready. Passionate about continuously improving, I stay up to date with the latest trends in frontend technologies and design systems.",
   },
 ];
 
@@ -135,14 +135,14 @@ const dataportfolio = [
   {
     img: taskMaster,
     description:
-      "Task Operator is a web-based task management application built with React and Redux. It offers a clean, responsive interface for creating, editing, and organizing tasks. Users can manage their to-do lists efficiently, with features like task filtering and state management powered by Redux. The app is deployed on Netlify",
+      "Task Operator is a web-based task management application built with React and Redux. It offers a clean, responsive interface for creating, editing, and organizing tasks. Users can manage their to-do lists efficiently.",
     link: "https://task-operator.netlify.app/",
   },
 
   {
     img: formForger,
     description:
-      "FormForger is a sleek web app for quickly creating and customizing forms. Built with a user-friendly interface, it allows users to generate forms effortlessly and preview them in real-time. Ideal for developers and designers looking to prototype or integrate forms easily.",
+      "FormForger is a sleek web app for quickly creating and customizing forms. Built with a user-friendly interface, it allows users to generate forms effortlessly and preview them in real-time.",
     link: "https://formforger.netlify.app/",
   },
   {
@@ -165,7 +165,7 @@ const dataportfolio = [
   {
     img: blankBuilder,
     description:
-      "BlankBuilder is a minimalist web application designed to assist users in creating and deploying blank or starter templates for web projects. It offers a clean interface, making it ideal for developers seeking a straightforward starting point for their applications",
+      "BlankBuilder is a minimalist web application designed to assist users in creating and deploying blank or starter templates for web projects.",
     link: "https://blankbuilder.netlify.app/",
   },
 ];
