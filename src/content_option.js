@@ -27,18 +27,18 @@ const introdata = {
     third: "I develop web apps",
   },
   description:
-    "I am a passionate frontend developer with a knack for turning ideas into interactive digital experiences. With expertise in React, JavaScript, and CSS, I specialize in crafting websites and applications that are both visually appealing and highly functional.",
+    "I am a passionate Full Stack Developer who enjoys transforming ideas into powerful and scalable digital solutions. With experience in modern frontend technologies like React, JavaScript, and CSS, along with backend development using Node.js and APIs, I build applications that are visually engaging, highly functional, and performance-driven. I focus on creating seamless user experiences while ensuring robust and efficient server-side systems.",
   your_img_url: my_img,
 };
 
 const dataabout = {
   title: "A bit about myself",
   aboutme:
-    "I am a frontend developer with a passion for creating dynamic and responsive user interfaces. My expertise includes working with modern JavaScript frameworks like React, as well as incorporating animations and 3D elements using GSAP and Three.js. I enjoy solving complex problems and continuously learning new technologies to enhance my skills. In addition to technical abilities, I have a keen eye for design, ensuring that every project I work on is not only functional but also visually appealing.",
+  "I am a Full Stack MERN Developer passionate about building dynamic and scalable web applications. My expertise includes developing modern user interfaces with React and JavaScript, as well as building robust backend systems using Node.js, Express.js, and MongoDB. I enjoy solving complex problems and continuously learning new technologies to improve my development skills. Along with strong technical abilities, I have a keen eye for design, ensuring that every application I build is not only functional and efficient but also visually engaging and user-friendly.",
 };
 const worktimeline = [
   {
-    jobtitle: "Fresher",
+    jobtitle: "Intermediate",
   },
 ];
 
@@ -49,7 +49,19 @@ const skills = [
   },
   {
     name: "React",
-    value: 80,
+    value: 85,
+  },
+  {
+    name: "Express",
+    value: 75,
+  },
+  {
+    name: "MongoDB  ",
+    value: 70,
+  },
+  {
+    name: "Node",
+    value: 50,
   },
   {
     name: "ReactNative",
@@ -60,12 +72,8 @@ const skills = [
     value: 60,
   },
   {
-    name: "Node",
-    value: 40,
-  },
-  {
     name: "TypeScript",
-    value: 100,
+    value: 90,
   },
   {
     name: "C",
@@ -77,8 +85,7 @@ const services = [
   {
     title: "Frontend Developer",
     description:
-      "I am a frontend developer specializing in building responsive, visually compelling, and performance-optimized web applications. With strong proficiency in React, JavaScript, HTML, and CSS, I translate complex UI/UX designs into clean, interactive, and accessible interfaces that work flawlessly across all major browsers and devices,My expertise includes integrating smooth animations, 3D elements (WebGL/Three.js), and dynamic interactions to elevate user engagement and create immersive web experiences. I follow modern development practices like component-driven architecture, state management (e.g., Redux/Zustand), and modular styling (CSS Modules, Tailwind CSS) to build scalable and maintainable codebases.I’m also experienced in performance optimization, SEO fundamentals, accessibility (WCAG), and version control (Git), ensuring every product I build is fast, inclusive, and production-ready. Passionate about continuously improving, I stay up to date with the latest trends in frontend technologies and design systems.",
-  },
+"I am a Full Stack MERN Developer specializing in building scalable, high-performance web applications from front-end interfaces to backend systems. With strong proficiency in React, JavaScript, Node.js, Express.js, and MongoDB, I develop responsive and visually compelling user interfaces while also designing secure and efficient server-side architectures and APIs.I focus on transforming complex UI/UX designs into clean, interactive, and accessible applications that perform seamlessly across all major browsers and devices. My expertise includes integrating dynamic interactions, animations, and modern UI patterns to create engaging user experiences, while ensuring strong backend logic and reliable data management.I follow modern development practices such as component-driven architecture, RESTful API design, state management (Redux/Zustand), and modular styling with tools like Tailwind CSS and CSS Modules to build scalable and maintainable applications.I am also experienced in database design, authentication systems, performance optimization, SEO fundamentals, accessibility (WCAG), and version control using Git. I strive to build end-to-end solutions that are secure, fast, and production-ready. Passionate about continuous learning, I stay updated with the latest advancements in full stack development and modern web technologies."  },
 ];
 
 const dataportfolio = [
